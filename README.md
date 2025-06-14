@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasrodlima&label=Profile%20views&color=0e75b6&style=flat" alt="lucasrodlima" /> </p>
 
-- 🌱 I’m currently learning **through the Boot.dev backend curriculum!**
+- 🌱 I’m currently learning **through the [Boot.dev][https://boot.dev/] backend curriculum!**
 
 - 📫 How to reach me **lucasrodlima@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lucas lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas lima" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lucasrodlima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas lima" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
