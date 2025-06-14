@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasrodlima&label=Profile%20views&color=0e75b6&style=flat" alt="lucasrodlima" /> </p>
 
-- 🌱 I’m currently learning **through the [Boot.dev][https://boot.dev/] backend curriculum!**
+- 🌱 I’m currently learning **through the [Boot.dev](https://boot.dev/) backend curriculum!**
 
 - 📫 How to reach me **lucasrodlima@proton.me**
 
