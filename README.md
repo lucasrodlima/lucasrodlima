@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
+<h1 align="center">Hi, I'm Lucas</h1>
 <h3 align="center">A backend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasrodlima&label=Profile%20views&color=0e75b6&style=flat" alt="lucasrodlima" /> </p>
 
-- 🌱 I’m currently learning **through the [Boot.dev](https://boot.dev/) backend curriculum!**
+- 💻 I’m currently learning **through the [Boot.dev](https://boot.dev/) backend curriculum!**
 
-- 🔭 Indie Hacker!
+- 👓 Indie Hacker!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
