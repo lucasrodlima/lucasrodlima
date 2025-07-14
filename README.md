@@ -2,8 +2,6 @@
 
 - 💻 I’m currently learning **through the [Boot.dev](https://boot.dev/) backend curriculum!**
 
-- 👓 Indie Hacker!
-
 <h3 align="left">Contact:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucasrodlima" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lucas lima" height="30" width="100" /></a>
